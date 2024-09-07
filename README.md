@@ -7,3 +7,7 @@
 "npm start" inside the client
 
 "node index.js" inside the server folder
+
+username: 'user1'
+        
+password: 'password123'
